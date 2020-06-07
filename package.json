@@ -1,0 +1,25 @@
+{
+  "name": "create-mern-scaffold",
+  "version": "1.0.0",
+  "description": "Command Line MERN framework scaffold generator. MVC layout includes MySQL setup with sequelize, Node/Express, and React. Deployment is prepared for use with Heroku.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KC135Q/create-mern-scaffold.git"
+  },
+  "keywords": [
+    "mysql",
+    "node",
+    "express",
+    "react",
+    "heroku",
+    "mern",
+    "fullstack"
+  ],
+  "author": "Dan Kaltenbaugh <d.a.kaltenbaugh@gmail.com> (kaltenbaugh.com)",
+  "license": "MIT",
+  "homepage": "https://github.com/KC135Q/create-mern-scaffold"
+}
